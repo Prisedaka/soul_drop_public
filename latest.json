@@ -4,12 +4,8 @@
   "pub_date": "2024-10-12T19:25:57Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTFLWURmekJaWUdnVWFscHJwaDE0eDFyMjNzZlhtK1NGR3BNZW54amFYRmxGamVEeVpjU0ZBRU5DR25nTElManovY0JWWFlqMCtna3dJQXRaNUZTMEpySmZXZS8zbXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzQzNjM5CWZpbGU6U291bERyb3AuYXBwLnRhci5negpEMTRVYTRUMzNBeURYMmp6VVd5b0hTbWxldVlRYk5UOW1CWmhITWpGQUhBS1poUEJyYkY3d0Fwb3VvYUgyV3liN2xEK1o2OGJHVEUrTTZFWjdBKzNCZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTFLWURmekJaWUVwQzJmdjA4eS81NDBaNHBHcnhlS05NKzZoOEhLTmxrV1lPbXRsSzZZQU1ubnZ3UWtUbGREWXJiSGc0OGRadTROWW9YNnNwRFFoRmU4TFkxUmx0VndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzQ1MDkzCWZpbGU6U291bERyb3AuYXBwLnRhci5negpUdlcyblNINmV2dWxHeTZubnQzUWh0dTdpOEQ0Y1pNMHcxSXdZcVR3TzQ0NVMxMUd3UGQzU200bkljNnN3R0ZjY2p0ZnB0aEVkQlQxaFRHcmlzK2VDZz09Cg==",
       "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
-      "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop-x64-setup.nsis.zip"
     }
   }
 }
