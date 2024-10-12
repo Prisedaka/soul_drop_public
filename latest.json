@@ -3,7 +3,19 @@
   "notes": "Test version",
   "pub_date": "2024-10-12T19:25:57Z",
   "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTFLWURmekJaWURnZ1o5a3JMRWNVY25Kc2hxNVJha2ZoTFhqajV5aXdQMTdOL3ZhcUJrK0V0RHA2TUVJWFdPYjQrd2R4cjQ1TnQ1Unc2RWsvTkJUbXd6UkVPV3FXK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzUwNzEwCWZpbGU6U291bERyb3AuYXBwLnRhci5negpyTUg4OXo2dEhvMzFTdmp0bUErcFd1dTMxNE96cGI2M3BTbGZIcWpPYXRMREhjOExIRTd1bm5aOC9ON1N4QTBJQ0YwWGxQL0lrcEg5ZWJkVVFaTCtDQT09Cg==",
+      "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop.app.tar.gz"
+    },
     "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTFLWURmekJaWURnZ1o5a3JMRWNVY25Kc2hxNVJha2ZoTFhqajV5aXdQMTdOL3ZhcUJrK0V0RHA2TUVJWFdPYjQrd2R4cjQ1TnQ1Unc2RWsvTkJUbXd6UkVPV3FXK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzUwNzEwCWZpbGU6U291bERyb3AuYXBwLnRhci5negpyTUg4OXo2dEhvMzFTdmp0bUErcFd1dTMxNE96cGI2M3BTbGZIcWpPYXRMREhjOExIRTd1bm5aOC9ON1N4QTBJQ0YwWGxQL0lrcEg5ZWJkVVFaTCtDQT09Cg==",
+      "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTFLWURmekJaWURnZ1o5a3JMRWNVY25Kc2hxNVJha2ZoTFhqajV5aXdQMTdOL3ZhcUJrK0V0RHA2TUVJWFdPYjQrd2R4cjQ1TnQ1Unc2RWsvTkJUbXd6UkVPV3FXK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzUwNzEwCWZpbGU6U291bERyb3AuYXBwLnRhci5negpyTUg4OXo2dEhvMzFTdmp0bUErcFd1dTMxNE96cGI2M3BTbGZIcWpPYXRMREhjOExIRTd1bm5aOC9ON1N4QTBJQ0YwWGxQL0lrcEg5ZWJkVVFaTCtDQT09Cg==",
+      "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop.app.tar.gz"
+    },
+    "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTFLWURmekJaWURnZ1o5a3JMRWNVY25Kc2hxNVJha2ZoTFhqajV5aXdQMTdOL3ZhcUJrK0V0RHA2TUVJWFdPYjQrd2R4cjQ1TnQ1Unc2RWsvTkJUbXd6UkVPV3FXK2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzUwNzEwCWZpbGU6U291bERyb3AuYXBwLnRhci5negpyTUg4OXo2dEhvMzFTdmp0bUErcFd1dTMxNE96cGI2M3BTbGZIcWpPYXRMREhjOExIRTd1bm5aOC9ON1N4QTBJQ0YwWGxQL0lrcEg5ZWJkVVFaTCtDQT09Cg==",
       "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop.app.tar.gz"
     }
