@@ -1,0 +1,15 @@
+{
+  "version": "v0.1.9",
+  "notes": "Test version",
+  "pub_date": "2024-10-12T19:25:57Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTFLWURmekJaWURDa3ZIeWhmUkZLdVlGNVNxaHNZV3dyTUxtNzdvaUc0RnF0ZkJvK2NLMWgrMUxPL3p5M2QwWDkyaVMxaWtERWJ1Mjg0Nk14TmtMUGlOMmY1QVJ1R2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NzI0NDczCWZpbGU6U291bERyb3AuYXBwLnRhci5negpiUURTM3BiY0VVOE5uUmV3OVJhZEFYNXB4V3JDMG1Qd1dBVWtwM2RlZCtxY0FiNm16YWhZYW5WeldlcVJwcDFtU0ZpcW5IellsNHJtTzJ1MXpxQjRCZz09Cg==",
+      "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "Content of app-setup.nsis.sig or app.msi.sig, depending on the chosen format",
+      "url": "https://github.com/Prisedaka/soul_drop_public/releases/tag/v0.1.9/SoulDrop-x64-setup.nsis.zip"
+    }
+  }
+}
